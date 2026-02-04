@@ -27,7 +27,3 @@ generates and manages the PEM key via Terraform, and deploys Strapi on the EC2 i
 ## Access
 Strapi Admin Panel:
 
-
-## Notes
-- Node version mismatch issue was resolved by upgrading to Node.js 20
-- Strapi was exposed using `--host=0.0.0.0`
